@@ -1,2 +1,4 @@
 i am dev branch
 Creating a new branck is quick and simple.
+
+分支管理策略
