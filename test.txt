@@ -1,2 +1,3 @@
-add one word!
-add two word!
+add one word in master!
+add two word! in master!
+add three word! in dev!
